@@ -14,14 +14,15 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=c41a7d)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
+<br>
+<br>
+
 <h1 align="left">Conecte-se comigo!</h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
 [![Instagram](https://img.shields.io/badge/-Instagram-141321?style=for-the-badge&logo=instagram&logoColor=F7408A&color:FFF)](https://www.instagram.com/nyantise/)
 <!-- [![YouTube](https://img.shields.io/badge/-YouTube-141321?style=for-the-badge&logo=youtube&logoColor=F7408A&color:FFF)](https://www.youtube.com/) -->
 
-<br>
-<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nyantise&count_private=true&show_icons=true&include_all_commits=true&theme=radical&border_radius=18)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&hide=TeX&layout=compact&theme=radical&border_radius=18)
