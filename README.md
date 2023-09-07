@@ -6,9 +6,9 @@
     <span>Daniel Rodrigues</span>
 </h1>
 
-<p align="justify">Desenvolvedor Fullstack, origino da região de Vitória da Conquista, BA. Desde pequeno me interessava por tecnologia, porém só vim me descobrir programador mais tarde, me introduzi nesse mundo pelo Flutter e desde então busquei cada vez mais evoluir como desenvolvedor, formado pela Driven Education hoje possuo habilidades comportamentais e prática com metodos ageis
+<p align="justify">Desenvolvedor Fullstack, originário da região de Vitória da Conquista, BA. Desde pequeno me interessava por tecnologia, porém só vim me descobrir programador mais tarde, me introduzi nesse mundo pelo Flutter e desde então busquei cada vez mais evoluir como desenvolvedor. Formado pela Driven Education hoje possuo diversas habilidades comportamentais e prática com métodos ágeis.
 <br>
-Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante influenciados por isso, gosto de escrever, ler, criar algo do zero e também aprendo novas tecnologias como hobby.
+Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos/conteúdos sobre rotineiramente.
 <a href="https://www.instagram.com/nyantise/">(@nyantise)</a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF725E)](https://elidianaandrade.github.io/)
