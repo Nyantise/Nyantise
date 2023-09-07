@@ -1,6 +1,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://drive.google.com/uc?id=1BSavgppM-0rCc4TbCMrs-_bMv543NDPT">
 
-<img src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/dev_icon.png width="30">
+<img src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/dev_icon.png" width="30">
 <h1>FullStack Software Engineer</h1>
 <h3>Daniel Rodrigues - Danne - Nyantise</h3>
 
