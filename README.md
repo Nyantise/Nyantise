@@ -14,7 +14,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=c41a7d)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
-<h3 align="left">Conecte-se comigo!</h3>
+<h1 align="left">Conecte-se comigo!</h1>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
 [![Instagram](https://img.shields.io/badge/-Instagram-141321?style=for-the-badge&logo=instagram&logoColor=F7408A&color:FFF)](https://www.instagram.com/nyantise/)
