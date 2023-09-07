@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="480" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/illustration.svg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="480" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/nyantise.svg">
 <h1>
 <img src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/dev_icon.png" width="23" height="20">
 FullStack Software Engineer
@@ -31,9 +31,9 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Illustration created by <a href="https://storyset.com/web">Web illustrations by Storyset</a>
+  - Illustration created by <a href="https://storyset.com/web">Storyset</a> and edited by me
  
-  <div align="right">Remade by <a href="https://github.com/Nyantise">Nyantise</a>, 
+  <div align="right">Made by <a href="https://github.com/Nyantise">Nyantise</a>, 
   Inspired by <a href="https://github.com/elidianaandrade">EA</a>
   </div>
 
