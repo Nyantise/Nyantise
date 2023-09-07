@@ -29,12 +29,12 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 <details align="left">
   <summary></summary> 
  
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Illustration created by <a href="https://storyset.com/web">Storyset</a> and edited by me
+  - Badges por <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Ilustração por <a href="https://storyset.com/web">Storyset</a> e editado por mim
  
-  <div align="right">Made by <a href="https://github.com/Nyantise">Nyantise</a>, 
-  Inspired by <a href="https://github.com/elidianaandrade">EA</a>
+  <div align="right">Criado por <a href="https://github.com/Nyantise">Nyantise</a>, 
+  Me inspirei no Radme da <a href="https://github.com/elidianaandrade">EA</a>
   </div>
 
 </details>
