@@ -33,8 +33,8 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
   - GitHub Stats por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Ilustração por <a href="https://storyset.com/web">Storyset</a> e editado por mim
  
-  <div align="right">Criado por <a href="https://github.com/Nyantise">Nyantise</a>, 
-  Me inspirei no Radme da <a href="https://github.com/elidianaandrade">EA</a>
+  <div align="right">Criado por <a href="https://github.com/Nyantise">Nyantise</a>,
+  inspirado pelo README da <a href="https://github.com/elidianaandrade">EA</a>
   </div>
 
 </details>
