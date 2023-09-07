@@ -1,7 +1,4 @@
 <div align="right">
-<br>
-<br>
-<br>
 <img alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/illustratio.svg">
 </div>
 <h1>
