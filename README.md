@@ -1,8 +1,8 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://drive.google.com/uc?id=1BSavgppM-0rCc4TbCMrs-_bMv543NDPT">
 
 <h1>
-    <img src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/dev_icon.png" width="30">
-    <span>FullStack Software Engineer</span>
+    <img src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/dev_icon.png" height="30", style>
+    <span><strong>Danne</strong> (Nyantise)</span>
 </h1>
 
 <p align="justify">Desenvolvedor Fullstack, originário da região de Vitória da Conquista, BA. Desde pequeno me interessava por tecnologia, porém só vim me descobrir programador mais tarde, me introduzi nesse mundo pelo Flutter e desde então busquei cada vez mais evoluir como desenvolvedor. Formado pela Driven Education hoje possuo diversas habilidades comportamentais e prática com métodos ágeis.
