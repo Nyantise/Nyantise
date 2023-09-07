@@ -12,17 +12,17 @@ FullStack Software Engineer
 Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 </p>
 <!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF725E)](https://elidianaandrade.github.io/)
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=c41a7d)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
 -->
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF725E&color:FFF)](https://www.linkedin.com/in/nyantise/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF725E&color:FFF)](https://www.instagram.com/nyantise/)
-<!-- [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF725E&color:FFF)](https://www.youtube.com/) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=c41a7d&color:FFF)](https://www.linkedin.com/in/nyantise/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=c41a7d&color:FFF)](https://www.instagram.com/nyantise/)
+<!-- [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=c41a7d&color:FFF)](https://www.youtube.com/) -->
 
 <h3 align="left">GitHub Stats</h3>
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF725E&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=c41a7d&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
 <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nyantise&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
