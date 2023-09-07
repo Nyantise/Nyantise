@@ -23,7 +23,9 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nyantise&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF725E&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF725E&theme=jolly)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF725E&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
 <br>
 
@@ -32,7 +34,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Developer vector created by <a href="https://storyset.com/web">Web illustrations by Storyset</a>
+  - Illustration created by <a href="https://storyset.com/web">Web illustrations by Storyset</a>
  
   <div align="right">Remade by <a href="https://github.com/Nyantise">Nyantise</a>, 
   Inspired by <a href="https://github.com/elidianaandrade">EA</a>
