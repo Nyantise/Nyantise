@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/ana.svg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/illustratio.svg">
 
 <h1>
 <img src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/dev_icon.png" width="23" height="20">
