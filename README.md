@@ -25,8 +25,8 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF725E&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Nyantise&count_private=true&show_icons=true&include_all_commits=true&locale=br&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&hide=TeX&layout=compact&locale=br&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Nyantise&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&hide=TeX&layout=compact&theme=tokyonight)
 
 <details align="left">
   <summary></summary> 
