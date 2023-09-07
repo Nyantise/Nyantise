@@ -21,6 +21,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 <!-- [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=c41a7d&color:FFF)](https://www.youtube.com/) -->
 
 <br>
+<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nyantise&count_private=true&show_icons=true&include_all_commits=true&theme=radical&border_radius=18)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&hide=TeX&layout=compact&theme=radical&border_radius=18)
