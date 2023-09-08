@@ -32,13 +32,16 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-%23000000?style=flat-square&logo=nodedotjs)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-%23000000?style=flat-square&logo=nestjs)
-<!-- ![](https://img.shields.io/badge/-Nest.js-%23000000?style=flat-square&logo=nestdotjs) -->
+![Postgres](https://img.shields.io/badge/-Postgres-%23000000?style=flat-square&logo=postgres)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb)
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
