@@ -35,11 +35,11 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 [![Dart](https://img.shields.io/badge/-Dart-2eb2ee?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![BashScript](https://img.shields.io/badge/-BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://dart.dev)
 
-[![Vue](https://img.shields.io/badge/-Vue.js-3fb27f?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 [![Nuxt](https://img.shields.io/badge/-Nuxt.js-00be87?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
 [![Angular](https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
-[![React](https://img.shields.io/badge/-React.js-5ed3f3?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![ReactNative](https://img.shields.io/badge/-React_Native-5ed3f3?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+[![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
 [![NativeScript](https://img.shields.io/badge/-NativeScript-65adf1?style=for-the-badge&logo=nativescript&logoColor=white)](https://nativescript.org)
 [![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
@@ -48,12 +48,15 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 [![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://www.mongodb.com)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.mongodb.com)
 
-[![Render](https://img.shields.io/badge/-Render-57e6bf?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
-[![Netlify](https://img.shields.io/badge/-Netlify-05b7b4?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com)
+<!-- [![Render](https://img.shields.io/badge/-Render-57e6bf?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
+[![Netlify](https://img.shields.io/badge/-Netlify-05b7b4?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com) -->
 [![Electron](https://img.shields.io/badge/-Electron-2a2c3a?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
 [![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
-
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://discord.js.org)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://discord.js.org)
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
