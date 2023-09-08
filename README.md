@@ -26,7 +26,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nyantise&count_private=true&show_icons=true&include_all_commits=true&theme=radical&border_radius=18)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&hide=TeX&layout=compact&theme=radical&border_radius=18)
 
-## Minhas Stacks ![ttps://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff]
+## Minhas Stacks ![https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff]
 
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
