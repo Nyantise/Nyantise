@@ -43,6 +43,11 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-%23000000?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb)
 
+![Render](https://img.shields.io/badge/-Render-%23000000?style=flat-square&logo=render)
+![Netlify](https://img.shields.io/badge/-Netlify-%23000000?style=flat-square&logo=netlify)
+![Electron](https://img.shields.io/badge/-Electron-%23000000?style=flat-square&logo=electron)
+
+
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
