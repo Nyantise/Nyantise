@@ -36,7 +36,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![Vue.js](https://img.shields.io/badge/-Vue.js-3fb27f?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00be87?style=flat-square&logo=nuxtdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-5ed3f3?style=flat-square&logo=react&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-5ed3f3?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=flat-square&logo=flutter&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white)
