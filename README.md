@@ -16,8 +16,8 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 -->
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
-[![Instagram](https://img.shields.io/badge/-Instagram-141321?style=for-the-badge&logo=instagram&logoColor=F7408A&color:FFF)](https://www.instagram.com/nyantise/)
+[![Instagram](https://img.shields.io/badge/--141321?style=for-the-badge&logo=instagram&logoColor=F7408A&color:FFF)](https://www.instagram.com/nyantise/)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
 
 [![YouTube](https://img.shields.io/badge/-me_acompanhe_no_youtube-141321?style=for-the-badge&logo=youtube&logoColor=F7408A)](https://www.youtube.com/)
 [![TikTok](https://img.shields.io/badge/-ou_no_TikTok-141321?style=for-the-badge&logo=tiktok&logoColor=F7408A)](https://www.tiktok.com/)
