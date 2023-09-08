@@ -39,9 +39,9 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00be87?style=flat-square&logo=nuxtdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-5ed3f3?style=flat-square&logo=react&logoColor=black)
+![ReactNative](https://img.shields.io/badge/-React_Native-5ed3f3?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=flat-square&logo=flutter&logoColor=white)
-![Rive](https://img.shields.io/badge/-Rive-57e6bf?style=flat-square&logo=rive&logoColor=white)
-
+![NativeScript](https://img.shields.io/badge/-NativeScript-65adf1?style=flat-square&logo=nativescript&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs&logoColor=white)
@@ -51,6 +51,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![Render](https://img.shields.io/badge/-Render-57e6bf?style=flat-square&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-05b7b4?style=flat-square&logo=netlify&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-2a2c3a?style=flat-square&logo=electron&logoColor=white)
+![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=flat-square&logo=discord&logoColor=white)
 
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
