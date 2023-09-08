@@ -33,13 +33,13 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuejs)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtjs)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/-Node.js-%43853d?style=flat-square&logo=nodedotjs)
-![Nest.js](https://img.shields.io/badge/-Nest.js-%ea2845?style=flat-square&logo=nestjs)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs)
+![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-%23000000?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb)
 
