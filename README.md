@@ -38,14 +38,14 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjsr&logoColor=white)
-![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjsr&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-%23000000?style=flat-square&logo=postgresqlr&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodbr&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-%23000000?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb&logoColor=white)
 
-![Render](https://img.shields.io/badge/-Render-%23000000?style=flat-square&logo=renderr&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-%23000000?style=flat-square&logo=netlifyr&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-%23000000?style=flat-square&logo=electronr&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-%23000000?style=flat-square&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-%23000000?style=flat-square&logo=netlify&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-%23000000?style=flat-square&logo=electron&logoColor=white)
 
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
