@@ -17,7 +17,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 <h3 align="left">Conecte-se comigo!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
-[![Gmail](https://img.shields.io/badge/-Gmail-141321?style=for-the-badge&logo=gmail&logoColor=F7408A&color:FFF)](https://www.gmail.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-141321?style=for-the-badge&logo=gmail&logoColor=F7408A&color:FFF)](mailto:nyantise.dev@gmail.com)
 [![portfolio](https://img.shields.io/badge/-portfolio-141321?style=for-the-badge&logo=powerpages&logoColor=F7408A&color:FFF)](https://www.gmail.com/)
 
 [![YouTube](https://img.shields.io/badge/-me_acompanhe_no_youtube-141321?style=for-the-badge&logo=youtube&logoColor=F7408A)](https://www.youtube.com/)
