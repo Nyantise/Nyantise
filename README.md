@@ -28,31 +28,30 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 
 ## Minhas Stacks
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-2eb2ee?style=flat-square&logo=dart&logoColor=white)
+[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Dart](https://img.shields.io/badge/-Dart-2eb2ee?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
+
+[![Vue.js](https://img.shields.io/badge/-Vue.js-3fb27f?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00be87?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
+[![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io)
+[![React.js](https://img.shields.io/badge/-React.js-5ed3f3?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![ReactNative](https://img.shields.io/badge/-React_Native-5ed3f3?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)
+[![NativeScript](https://img.shields.io/badge/-NativeScript-65adf1?style=flat-square&logo=nativescript&logoColor=white)](https://nativescript.org)
+[![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-3fb27f?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-00be87?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-5ed3f3?style=flat-square&logo=react&logoColor=black)
-![ReactNative](https://img.shields.io/badge/-React_Native-5ed3f3?style=flat-square&logo=react&logoColor=black)
-![NativeScript](https://img.shields.io/badge/-NativeScript-65adf1?style=flat-square&logo=nativescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=flat-square&logo=flutter&logoColor=white)
+[![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
-
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white)
-![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=flat-square&logo=mongodb&logoColor=white)
-
-![Render](https://img.shields.io/badge/-Render-57e6bf?style=flat-square&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/-Netlify-05b7b4?style=flat-square&logo=netlify&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-2a2c3a?style=flat-square&logo=electron&logoColor=white)
-![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=flat-square&logo=discord&logoColor=white)
+[![Render](https://img.shields.io/badge/-Render-57e6bf?style=flat-square&logo=render&logoColor=black)](https://render.com)
+[![Netlify](https://img.shields.io/badge/-Netlify-05b7b4?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com)
+[![Electron](https://img.shields.io/badge/-Electron-2a2c3a?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org)
+[![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org)
 
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
