@@ -40,7 +40,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 
 ![Node.js](https://img.shields.io/badge/-Node.js-%23000000?style=flat-square&logo=nodedotjs)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-%23000000?style=flat-square&logo=nestjs)
-![Postgres](https://img.shields.io/badge/-Postgres-%23000000?style=flat-square&logo=postgres)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-%23000000?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb)
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
