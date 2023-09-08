@@ -33,18 +33,19 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Dart](https://img.shields.io/badge/-Dart-2eb2ee?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![BashScript](https://img.shields.io/badge/-BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://dart.dev)
 
-[![Vue.js](https://img.shields.io/badge/-Vue.js-3fb27f?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00be87?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
+[![Vue](https://img.shields.io/badge/-Vue.js-3fb27f?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![Nuxt](https://img.shields.io/badge/-Nuxt.js-00be87?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
 [![Angular](https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
-[![React.js](https://img.shields.io/badge/-React.js-5ed3f3?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![React](https://img.shields.io/badge/-React.js-5ed3f3?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![ReactNative](https://img.shields.io/badge/-React_Native-5ed3f3?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
 [![NativeScript](https://img.shields.io/badge/-NativeScript-65adf1?style=for-the-badge&logo=nativescript&logoColor=white)](https://nativescript.org)
 [![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
 
-[![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
