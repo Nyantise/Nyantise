@@ -37,8 +37,14 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23000000?style=flat-square&logo=nodedotjs)
-![Nest.js](https://img.shields.io/badge/-Nest.js-%23000000?style=flat-square&logo=nestdotjs)
+![Nest.js](https://img.shields.io/badge/-Nest.js-%23000000?style=flat-square&logo=nestjs)
 <!-- ![](https://img.shields.io/badge/-Nest.js-%23000000?style=flat-square&logo=nestdotjs) -->
+
+<!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
 <details align="left">
   <summary></summary> 
