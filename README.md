@@ -33,19 +33,20 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-3fb27f?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-00be87?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-5ed3f3?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=flat-square&logo=flutter&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs&logoColor=white)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-%23000000?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=flat-square&logo=mongodb&logoColor=white)
 
-![Render](https://img.shields.io/badge/-Render-%23000000?style=flat-square&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-%23000000?style=flat-square&logo=netlify&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-%23000000?style=flat-square&logo=electron&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-57e6bf?style=flat-square&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-05b7b4?style=flat-square&logo=netlify&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-2a2c3a?style=flat-square&logo=electron&logoColor=white)
 
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
