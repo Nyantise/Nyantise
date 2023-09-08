@@ -35,17 +35,17 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=flat-square&logo=nuxtdotjs&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-f7df1c?style=flat-square&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-%23282C34?style=flat-square&logo=flutter&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs)
-![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjs)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-%23000000?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjsr&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-EA2845?style=flat-square&logo=nestjsr&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-%23000000?style=flat-square&logo=postgresqlr&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23000000?style=flat-square&logo=mongodbr&logoColor=white)
 
-![Render](https://img.shields.io/badge/-Render-%23000000?style=flat-square&logo=render)
-![Netlify](https://img.shields.io/badge/-Netlify-%23000000?style=flat-square&logo=netlify)
-![Electron](https://img.shields.io/badge/-Electron-%23000000?style=flat-square&logo=electron)
+![Render](https://img.shields.io/badge/-Render-%23000000?style=flat-square&logo=renderr&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-%23000000?style=flat-square&logo=netlifyr&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-%23000000?style=flat-square&logo=electronr&logoColor=white)
 
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
