@@ -9,7 +9,6 @@ FullStack Software Engineer
 <br>
 <br>
 Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
-</p>
 <details align="left">
   <summary><h3>Saiba Mais</h3></summary> 
  
@@ -18,6 +17,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
   - Ilustração por <a href="https://storyset.com/web">Storyset</a> e editado por mim
  
 </details>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
 [![Mail](https://img.shields.io/badge/-Mail_me-141321?style=for-the-badge&logo=gmail&logoColor=F7408A&color:FFF)](mailto:nyantise.dev@gmail.com)
