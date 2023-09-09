@@ -11,7 +11,7 @@ FullStack Software Engineer
 Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 
 <details align="left">
-  <summary>Saiba Mais</summary> 
+  <summary><h3>Saiba Mais</h3></summary> 
  
   - Badges por <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
