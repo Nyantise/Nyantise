@@ -71,11 +71,12 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 <img height="60px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite&logoColor=000000">
 </h1>
 
-- :desktop_computer: Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
+### :pushpin: Curiosidades
+- :desktop_computer: Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante :black_nib:.
 - :sparkling_heart: Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos<br>os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
 - :headphones: Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
 - :game_die: Tenho um sistema próprio de RPG (ainda em produção).
-- :joystick: Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou Engenheiro de Redstone :diamonds:.
+- :joystick: Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou engenheiro de Redstone :diamonds:.
 
 <details align="left">
   <summary></summary> 
