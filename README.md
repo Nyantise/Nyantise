@@ -10,6 +10,19 @@ FullStack Software Engineer
 <br>
 Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 </p>
+<details align="left">
+  <summary>Test 1</summary> 
+ 
+  - Badges por <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Ilustração por <a href="https://storyset.com/web">Storyset</a> e editado por mim
+ 
+  <div align="right">Criado por <a href="https://github.com/Nyantise">Nyantise</a>,
+  inspirado pelo README da <a href="https://github.com/elidianaandrade">EA</a>
+  </div>
+
+</details>
+
 <h3 align="left">Conecte-se comigo!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
@@ -33,7 +46,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Dart](https://img.shields.io/badge/-Dart-2eb2ee?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![BashScript](https://img.shields.io/badge/-BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://dart.dev)
+[![BashScript](https://img.shields.io/badge/-BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 [![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 [![Nuxt](https://img.shields.io/badge/-Nuxt.js-00be87?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
@@ -43,20 +56,17 @@ Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante
 [![NativeScript](https://img.shields.io/badge/-NativeScript-65adf1?style=for-the-badge&logo=nativescript&logoColor=white)](https://nativescript.org)
 [![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
-
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://www.mongodb.com)
-[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.mongodb.com)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
 
-<!-- [![Render](https://img.shields.io/badge/-Render-57e6bf?style=for-the-badge&logo=render&logoColor=black)](https://render.com)
-[![Netlify](https://img.shields.io/badge/-Netlify-05b7b4?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com) -->
 [![Electron](https://img.shields.io/badge/-Electron-2a2c3a?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
 [![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://discord.js.org)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://discord.js.org)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 
 <!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
