@@ -66,6 +66,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 <h1>
 <img height="60px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite&logoColor=000000">
 </h1>
+
 - Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
 - Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos<br>os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
 - Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
