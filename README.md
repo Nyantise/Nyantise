@@ -11,7 +11,7 @@ FullStack Software Engineer
 Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 
 
-[create an anchor](#Saiba-Mais)
+[Saiba Mais](#saiba-mais)
 
 </p>
 
@@ -64,7 +64,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
-#Saiba-Mais
+#Saiba Mais
   - Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
   - Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
   - Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
