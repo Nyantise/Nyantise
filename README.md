@@ -10,7 +10,7 @@ FullStack Software Engineer
 <br>
 Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 
-<details align="left">
+<details align="justify">
   <summary><h3>Saiba Mais</h3></summary>
 
   - Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
@@ -18,7 +18,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
   - Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
   - Tenho um sistema próprio de RPG :nerd_face: (ainda em produção).
   - Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou Minerador:pick:.
-  
+
 </details>
 </p>
 
