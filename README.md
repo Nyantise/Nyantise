@@ -11,6 +11,9 @@ FullStack Software Engineer
 Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 
 [![Saiba Mais!](https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite)](#saiba-mais)
+<a href="#saiba-mais">
+<img height="40px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite"/>
+</a>
 
 </p>
 
