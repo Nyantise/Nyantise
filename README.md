@@ -10,16 +10,9 @@ FullStack Software Engineer
 <br>
 Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 
-<details align="justify">
-  <summary><h3>Saiba Mais</h3></summary>
 
-  - Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
-  - Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
-  - Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
-  - Tenho um sistema próprio de RPG :nerd_face: (ainda em produção).
-  - Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou Minerador:pick:.
+[create an anchor](#Saiba-Mais)
 
-</details>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
@@ -70,6 +63,13 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
+
+#Saiba-Mais
+  - Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
+  - Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
+  - Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
+  - Tenho um sistema próprio de RPG :nerd_face: (ainda em produção).
+  - Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou Minerador:pick:.
 
 <details align="left">
   <summary></summary> 
