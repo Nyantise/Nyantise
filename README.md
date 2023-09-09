@@ -11,12 +11,12 @@ FullStack Software Engineer
 Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 
 <details align="left">
-  <summary><h3>Saiba Mais</h3></summary> 
- 
-  - Badges por <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  - Ilustração por <a href="https://storyset.com/web">Storyset</a> e editado por mim
- 
+  <summary><h3>Saiba Mais</h3></summary>
+  - Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
+  - Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
+  - Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
+  - Tenho um sistema próprio de RPG :nerd_face: (ainda em produção).
+  - Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou Minerador:pick:.
 </details>
 </p>
 
