@@ -10,7 +10,7 @@ FullStack Software Engineer
 <br>
 Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 
-[![Saiba Mais!](https://img.shields.io/badge/-saiba_mais-%23E44D27?style=for-the-badge&logo=aseprite&logoColor=ffffff)](#saiba-mais)
+[![Saiba Mais!](https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite)](#saiba-mais)
 
 </p>
 
@@ -63,7 +63,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
-<h1>
+<h1 id="saiba-mais">
 <img height="60px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite&logoColor=000000">
 </h1>
 
