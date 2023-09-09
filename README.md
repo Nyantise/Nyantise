@@ -10,14 +10,13 @@ FullStack Software Engineer
 <br>
 Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 
-
-[Saiba Mais](#saiba-mais)
+[![Saiba Mais!](https://img.shields.io/badge/-saiba_mais-%23E44D27?style=for-the-badge&logo=aseprite&logoColor=ffffff)](#saiba-mais)
 
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
 [![Mail](https://img.shields.io/badge/-Mail_me-141321?style=for-the-badge&logo=gmail&logoColor=F7408A&color:FFF)](mailto:nyantise.dev@gmail.com)
-[![portfolio](https://img.shields.io/badge/-portfolio-141321?style=for-the-badge&logo=powerpages&logoColor=F7408A&color:FFF)](https://www.gmail.com/)
+[![portfolio](https://img.shields.io/badge/-portfolio-141321?style=for-the-badge&logo=powerpages&logoColor=F7408A&color:FFF)](https://docs.google.com/document/d/12Go_RIUJF-BF88vpAClfvdstop1sd9h2cf3UFfhYApM/edit?usp=sharing)
 
 [![YouTube](https://img.shields.io/badge/-me_acompanhe_no_youtube-141321?style=for-the-badge&logo=youtube&logoColor=F7408A)](https://www.youtube.com/)
 [![TikTok](https://img.shields.io/badge/-ou_no_TikTok-141321?style=for-the-badge&logo=tiktok&logoColor=F7408A)](https://www.tiktok.com/)
@@ -64,7 +63,9 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
-# Saiba Mais
+<h1>
+<img height="60px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite&logoColor=000000">
+</h1>
 - Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
 - Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos<br>os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
 - Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
