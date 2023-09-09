@@ -9,6 +9,7 @@ FullStack Software Engineer
 <br>
 <br>
 Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
+
 <details align="left">
   <summary>Saiba Mais</summary> 
  
