@@ -65,11 +65,11 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
 # Saiba Mais
-- Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
-- Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
-- Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
+- Antes de me descobrir como programador eu queria ser  animador, eu desenhava bastante.
+- Eu sou viciado em passarinhos :parrot:, eu tinha uma  calopsita que me acompanhava para todos os lugares  (nome dela era Blizz), ela dormia e tomava banho comigo.
+- Gosto de todos os estilos musicais mas me identifico  como :skull: **METALEIRO** :skull:.
 - Tenho um sistema próprio de RPG :nerd_face: (ainda em produção).
-- Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou Minerador:pick:.
+- Amo jogos desde pequeno (adorava Mario e Donkey Kong),  hoje eu sou Minerador:pick:.
 
 <details align="left">
   <summary></summary> 
