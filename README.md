@@ -27,7 +27,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&hide=TeX&layout=compact&theme=radical&border_radius=15)
 
 <h1>
-<img height="60px" src="https://img.shields.io/badge/-Minhas_stacks-fff?style=for-the-badge&logo=slickpic&logoColor=000000">
+<img height="60px" src="https://img.shields.io/badge/-Minhas_stacks-fff?style=for-the-badge&logo=buffer&logoColor=000000">
 </h1>
 
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
