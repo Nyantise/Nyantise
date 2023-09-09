@@ -8,7 +8,7 @@ FullStack Software Engineer
 <p align="justify">Originário da região de Vitória da Conquista, BA. Desde pequeno me interessava por tecnologia, porém só vim me descobrir programador mais tarde, me introduzi nesse mundo pelo Flutter e desde então busquei cada vez mais evoluir como desenvolvedor. Formado pela Driven Education, hoje possuo diversas habilidades comportamentais e prática com metodologias ágeis.
 <br>
 <br>
-Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre, rotineiramente.
+Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso. Gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre.
 
 <br>
 <br>
