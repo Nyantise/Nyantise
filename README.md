@@ -12,11 +12,13 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 
 <details align="left">
   <summary><h3>Saiba Mais</h3></summary>
+
   - Antes de me descobrir como programador eu queria ser animador, eu desenhava bastante.
   - Eu sou viciado em passarinhos :parrot:, eu tinha uma calopsita que me acompanhava para todos os lugares (nome dela era Blizz), ela dormia e tomava banho comigo.
   - Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
   - Tenho um sistema próprio de RPG :nerd_face: (ainda em produção).
   - Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou Minerador:pick:.
+  
 </details>
 </p>
 
