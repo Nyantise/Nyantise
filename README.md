@@ -11,19 +11,13 @@ FullStack Software Engineer
 Sempre tive uma mente bastante imaginativa e meus costumes sempre foram bastante influenciados por isso, gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias ou ler artigos / conteúdos sobre rotineiramente.
 </p>
 <details align="left">
-  <summary>Test 1</summary> 
+  <summary><h3>Saiba Mais</h3></summary> 
  
   - Badges por <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats por <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Ilustração por <a href="https://storyset.com/web">Storyset</a> e editado por mim
  
-  <div align="right">Criado por <a href="https://github.com/Nyantise">Nyantise</a>,
-  inspirado pelo README da <a href="https://github.com/elidianaandrade">EA</a>
-  </div>
-
 </details>
-
-<h3 align="left">Conecte-se comigo!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=F7408A&color:FFF)](https://www.linkedin.com/in/nyantise/)
 [![Mail](https://img.shields.io/badge/-Mail_me-141321?style=for-the-badge&logo=gmail&logoColor=F7408A&color:FFF)](mailto:nyantise.dev@gmail.com)
