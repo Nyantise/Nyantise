@@ -27,7 +27,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Nyantise&show_icons=true&theme=radical&border_radius=15)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Nyantise&show_icons=true&include_all_commits=true&theme=radical&border_radius=15)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&hide=TeX&layout=compact&theme=radical&border_radius=15)
 
 <h1>
