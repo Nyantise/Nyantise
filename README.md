@@ -10,7 +10,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 
 <br>
 <br>
-<a href="saiba-mais">
+<a href="#saiba-mais">
 <img height="40px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite"/>
 </a>
 
