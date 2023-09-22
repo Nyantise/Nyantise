@@ -1,9 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="480" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/nyantise.svg">
-<h1>
-<img src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/dev_icon.png" width="23" height="20">
-FullStack Software Engineer
-</h1>
-<h3>Daniel Rodrigues - Danne - Nyantise</h3>
+
+# FullStack Software Engineer
+### Daniel Rodrigues - Danne - Nyantise
 
 <p align="justify">Originário da região de Vitória da Conquista, BA. Desde pequeno me interessava por tecnologia, porém só vim me descobrir programador mais tarde, me introduzi nesse mundo pelo Flutter e desde então busquei cada vez mais evoluir como desenvolvedor. Formado pela Driven Education, hoje possuo diversas habilidades comportamentais e prática com metodologias ágeis.
 <br>
@@ -12,7 +10,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 
 <br>
 <br>
-<a href="#saiba-mais">
+<a href="saiba-mais">
 <img height="40px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite"/>
 </a>
 
