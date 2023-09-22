@@ -27,9 +27,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&theme=radical&layout=compact&border_radius=15)
 
-<h1>
-<img height="60px" src="https://img.shields.io/badge/-Minhas_stacks-fff?style=for-the-badge&logo=buffer&logoColor=000000">
-</h1>
+# Minhas stacks
 
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -61,7 +59,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
-<h1 id="saiba-mais">
+# Saiba mais
 <img height="60px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite&logoColor=000000">
 </h1>
 
