@@ -53,10 +53,10 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
 
-<!-- forlater adition ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+## Projetos em destaque
 
-[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+[![Nyantisuu](https://svg.bookmark.style/api?url=https://github.com/Nyantise/nyantisuu&mode=dark&style=horizontal)](https://github.com/Nyantise/nyantisuu)
+<!-- [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
 # Saiba mais
