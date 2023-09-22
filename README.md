@@ -60,8 +60,6 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
 # Saiba mais
-<img height="60px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite&logoColor=000000">
-</h1>
 
 ### :pushpin: Curiosidades
 - :desktop_computer: Antes de me descobrir como programador eu queria ser animador, eu desenhava :pencil2: bastante.
