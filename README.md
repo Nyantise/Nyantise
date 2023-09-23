@@ -56,7 +56,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 ## Projetos em destaque
 
 <a href="https://github.com/Nyantise/nyantisuu">
-<img width="80%" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/nyanBookmark.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/nyanBookmark.png"/>
 </a>
 <!-- [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
