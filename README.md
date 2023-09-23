@@ -54,7 +54,10 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
 
 ## Projetos em destaque
-[![Nyantisuu](https://github.com/Nyantise/Nyantise/assets/99619651/d63dcb32-7265-44a5-8ed7-b1d9ce055ce6)](https://github.com/Nyantise/nyantisuu)
+
+<a href="https://github.com/Nyantise/nyantisuu">
+<img width="70%" src="https://github.com/Nyantise/Nyantise/assets/99619651/d63dcb32-7265-44a5-8ed7-b1d9ce055ce6"/>
+</a>
 <!-- [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
 
