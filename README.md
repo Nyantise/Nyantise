@@ -11,7 +11,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 <br>
 <br>
 <a href="#saiba-mais">
-<img height="40px" src="https://img.shields.io/badge/-saiba_mais-fff?style=for-the-badge&logo=aseprite"/>
+<img height="40px" src="https://img.shields.io/badge/->saiba_mais<-141321?style=for-the-badge&logo=aseprite&logoColor=F7408A&color:FFF"/>
 </a>
 
 </p>
@@ -48,16 +48,13 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
 
-[![Electron](https://img.shields.io/badge/-Electron-2a2c3a?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 [![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
 
 ## Projetos em destaque
 
-<a href="https://nyantisuu.netlify.app" target="_blank">
-<img width="100%" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/nyuuBookmark.png"/>
-</a>
+[![Nyantisuu!](https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/nyuuBookmark.png)](https://nyantisuu.netlify.app)
 
 <!-- [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner) -->
