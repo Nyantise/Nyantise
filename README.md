@@ -55,7 +55,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 
 ## Projetos em destaque
 
-<a href="https://github.com/Nyantise/nyantisuu">
+<a href="https://nyantisuu.netlify.app" target="_blank">
 <img width="100%" src="https://raw.githubusercontent.com/Nyantise/Nyantise/main/assets/nyuuBookmark.png"/>
 </a>
 
