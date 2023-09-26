@@ -3,10 +3,9 @@
 # FullStack Software Engineer
 ### Daniel Rodrigues - Danne - Nyantise
 
-<p align="justify">Originário da região de Vitória da Conquista, BA. Desde pequeno me interessava por tecnologia, porém só vim me descobrir programador mais tarde, me introduzi nesse mundo pelo Flutter e desde então busquei cada vez mais evoluir como desenvolvedor. Formado pela Driven Education, hoje possuo diversas habilidades comportamentais e prática com metodologias ágeis.
+Originário da região de Vitória da Conquista, BA. Desde pequeno me interessava por tecnologia, porém só vim me descobrir programador mais tarde, me introduzi nesse mundo pelo Python e Flutter, desde então busquei cada vez mais evoluir como desenvolvedor. Formado pela Driven Education, hoje possuo diversas habilidades comportamentais e prática com metodologias ágeis.
 <br>
-<br>
-Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso. Gosto de escrever, ler, criar algo do zero e gosto de aprender novas tecnologias e suas singularidades ou ler artigos / conteúdos sobre.
+Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenciados por isso. Escrever, ler, criar algo do zero, etc... gosto de aprender novas tecnologias e suas singularidades ou ler artigos / consumir conteúdos sobre.
 
 <br>
 <br>
