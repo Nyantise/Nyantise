@@ -47,10 +47,10 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
+
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
