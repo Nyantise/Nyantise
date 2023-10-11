@@ -20,8 +20,8 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![Mail](https://img.shields.io/badge/-Mail_me-141321?style=for-the-badge&logo=gmail&logoColor=F7408A&color:FFF)](mailto:nyantise.dev@gmail.com)
 [![portfolio](https://img.shields.io/badge/-portfolio-141321?style=for-the-badge&logo=powerpages&logoColor=F7408A&color:FFF)](https://docs.google.com/document/d/12Go_RIUJF-BF88vpAClfvdstop1sd9h2cf3UFfhYApM/edit?usp=sharing)
 
-[![YouTube](https://img.shields.io/badge/-me_acompanhe_no_youtube-141321?style=for-the-badge&logo=youtube&logoColor=F7408A)](https://www.youtube.com/)
-[![TikTok](https://img.shields.io/badge/-ou_no_TikTok-141321?style=for-the-badge&logo=tiktok&logoColor=F7408A)](https://www.tiktok.com/)
+[![YouTube](https://img.shields.io/badge/-me_acompanhe_no_youtube-141321?style=for-the-badge&logo=youtube&logoColor=F7408A)](https://www.youtube.com/@nyantise)
+[![TikTok](https://img.shields.io/badge/-ou_no_TikTok-141321?style=for-the-badge&logo=tiktok&logoColor=F7408A)](https://www.tiktok.com/@nyantise)
 
 <br>
 
