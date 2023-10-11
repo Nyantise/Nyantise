@@ -26,7 +26,7 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&theme=radical&layout=compact&border_radius=15)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyantise&show_icons=true&theme=radical&layout=compact&border_radius=15)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyantise&show_icons=true&theme=radical&layout=compact&border_radius=15&include_all_commits=true)
 
 # Minhas stacks
 
