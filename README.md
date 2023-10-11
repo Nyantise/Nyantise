@@ -61,11 +61,12 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 # Saiba mais
 
 ### :pushpin: Curiosidades
-- :desktop_computer: Antes de me descobrir como programador eu queria ser animador, eu desenhava :pencil2: bastante.
-- :sparkling_heart: Eu sou viciado em passarinhos, eu tinha uma calopsita que me acompanhava para todos<br>os lugares (nome dela era Blizz :parrot:), ela dormia e tomava banho comigo.
-- :musical_note: Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
-- :game_die: Tenho um sistema próprio de RPG (ainda em produção).
-- :joystick: Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou engenheiro de Redstone :diamonds:.
+- 📚 Atualmente aprendendo Java, C++ e dando uma olhada no Golang.
+- 🖥️ Antes de me descobrir como programador eu queria ser animador, eu desenhava :pencil2: bastante.
+- 💖 Eu sou viciado em passarinhos, eu tinha uma calopsita que me acompanhava para todos<br>os lugares (nome dela era Blizz 🦜), ela dormia e tomava banho comigo.
+- 🎵 Gosto de todos os estilos musicais mas me identifico como :skull: **METALEIRO** :skull:.
+- 🎲 Tenho um sistema próprio de RPG (ainda em produção).
+- 🕹️ Amo jogos desde pequeno (adorava Mario e Donkey Kong), hoje eu sou engenheiro de Redstone :diamonds:.
 
 <details align="left">
   <summary></summary> 
