@@ -37,10 +37,8 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![Dart](https://img.shields.io/badge/-Dart-2eb2ee?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![BashScript](https://img.shields.io/badge/-BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-[![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB)](https://nextjs.org)
 [![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
 [![Angular](https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=61DAFB)](https://www.djangoproject.com)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
@@ -54,7 +52,6 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Discord.js](https://img.shields.io/badge/-Discord.js-4e62f0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org)
 
 ## Projetos em destaque
 
