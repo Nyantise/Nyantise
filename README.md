@@ -26,11 +26,10 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyantise&theme=radical&layout=compact&border_radius=15)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyantise&show_icons=true&theme=radical&layout=compact&border_radius=15)
 
 # Minhas stacks
 
-[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Dart](https://img.shields.io/badge/-Dart-2eb2ee?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
