@@ -40,16 +40,18 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://vuejs.org)
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://vuejs.org)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://vuejs.org)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://vuejs.org)
 
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+
 
 ## Projetos em destaque
 
