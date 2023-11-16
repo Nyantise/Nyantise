@@ -36,13 +36,13 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![BashScript](https://img.shields.io/badge/-BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-[![Vue](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://vuejs.org)
 [![Angular](https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://vuejs.org)
 
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-00d65c?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
