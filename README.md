@@ -34,7 +34,6 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Dart](https://img.shields.io/badge/-Dart-2eb2ee?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![BashScript](https://img.shields.io/badge/-BashScript-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
@@ -42,7 +41,6 @@ Sempre tive uma mente bastante imaginativa e meus costumes foram muito influenci
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![Flutter](https://img.shields.io/badge/-Flutter-2eb2ee?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://vuejs.org)
 [![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Nest](https://img.shields.io/badge/-Nest.js-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://vuejs.org)
